@@ -1,0 +1,62 @@
+variable_b is already declared
+
+valid declaration
+inc: 9
+
+value of expression: 9
+
+value of expression: 13
+
+value of expression: 55
+
+division by zero	
+value of expression: 0
+
+value of expression: 14
+
+condition value zero in IF block
+
+value of expression: 4
+
+We are  in IF and the value is: 4
+
+value of expression: 19
+
+value of expression: 8
+
+We are in ELSE and the value is : 8
+
+value of expression: 20
+
+value of expression: 5
+
+We are in ELSE and the value is : 5
+
+value of expression: 17
+
+We are in IF: 5
+For Loop :
+Step : 2 and value of expression : 6
+Step : 3 and value of expression : 6
+Step : 4 and value of expression : 6
+Step : 5 and value of expression : 6
+While LOOP:
+step: 0 value of expression :6 
+step: 1 value of expression :6 
+step: 2 value of expression :6 
+step: 3 value of expression :6 
+step: 4 value of expression :6 
+
+While LOOP:
+step: 0 value of expression :18 
+step: 1 value of expression :18 
+step: 2 value of expression :18 
+step: 3 value of expression :18 
+step: 4 value of expression :18 
+
+
+Result in default Value is :  9
+SWITCH case.
+single line comment
+multiple_line_comment
+Successful compilation
